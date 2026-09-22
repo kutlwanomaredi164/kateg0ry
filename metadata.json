@@ -1,0 +1,6 @@
+{
+  "name": "Katography Creative Studio",
+  "description": "Premium photography and videography agency crafting cinematic visuals for luxury brands, festivals, and high-profile portraits worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
